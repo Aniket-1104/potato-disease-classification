@@ -18,3 +18,5 @@ Users can simply upload an image of a potato leaf through the app or website. Th
 🌐 Real-World Impact: Aims to support farmers in early detection, improving crop yield and reducing losses caused by late intervention.
 
 Tech Stack: TensorFlow | FastAPI | React.js | CNNs | Python | JavaScript
+
+<img width="1180" height="1232" alt="potato-leaves-classified" src="https://github.com/user-attachments/assets/7ec7e9da-d970-43d8-8b88-c8e024f4bfcc" />
